@@ -1,0 +1,723 @@
+[
+    {
+    "name":"คลินิกจิตเวช โรงพยาบาลกลาง",
+    "offline":true,
+    "online":false,
+    "address":"โรงพยาบาลกลาง สำนักการแพทย์ 514 ถนนหลวง ป้อมปราบศัตรูพ่าย กรุงเทพมหานคร 10100",
+      "province":"จ.กรุงเทพมหานคร",
+    "contact":{
+       "phone":"0-2220-8000",
+       "web":"http://www.klanghospital.go.th/"
+    },
+    "description":"ตรวจทุกวันพฤหัสบดีที่ 1 และ 3 ของเดือน",
+    "time":"ทุกวันพฤหัสบดีที่ 1 และ 3 ของเดือน 10.00 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://hivthai.org/wp-content/uploads/home-04.jpg"
+  },
+  {
+    "name":"โรงพยาบาลจุฬาภรณ์",
+    "offline":true,
+    "online":false,
+    "address":"คลินิกจิตเวช ชั้น 2 อาคารศูนย์การแพทย์มะเร็งวิทยาจุฬาภรณ์ โรงพยาบาลจุฬาภรณ์ เลขที่ 906 ถนนกำแพงเพชร 6 แขวงตลาดบางเขน เขตหลักสี่ กรุงเทพมหานคร 10210",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2576-6000 ต่อ 6163, 6170",
+       "web":"https://www.chulabhornhospital.com/Medical_Detail/74/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%8A",
+           "facebook" : "https://www.facebook.com/chulabhornhospital/"
+    },
+    "description":"รับเฉพาะผู้ป่วยมะเร็งของโรงพยาบาลและญาติ",
+    "time":"วันพฤหัสบดี 13.00 – 16.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://www.chulabhornhospital.com/uploaded/images/154900494020190201101111.jpg"
+  },
+  {
+    "name":"โรงพยาบาลจุฬาลงกรณ์ จิตเวชทั่วไป",
+    "offline":true,
+    "online":false,
+    "address":"หน่วยบริการผู้ป่วยนอก OPD ตึก ภปร. ชั้น 12 จิตเวชทั่วไป โรงพยาบาลจุฬาลงกรณ์ 1873 ถนนพระรามที่ 4 แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2256-5182, 0-2256-5180",
+       "web":"https://chulalongkornhospital.go.th/kcmh/dept/%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C/"
+    },
+    "description":"คลินิกพิเศษนอกเวลาราชการ : วันจันทร์ - วันศุกร์ 08.30 - 15.30 น. วันเสาร์ - อาทิตย์ 08.30 - 12.00 น.",
+    "time":"วันจันทร์ - วันศุกร์ 08.30 – 15.30 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://thejournalistclub.com/wp-content/uploads/2020/10/1_37.jpg"
+  },
+  {
+    "name":"โรงพยาบาลจุฬาลงกรณ์ จิตเวชเด็กและวัยรุ่น",
+    "offline":true,
+    "online":false,
+    "address":"หน่วยบริการผู้ป่วยนอก OPD ตึก ภปร. ชั้น 12 จิตเวชเด็กและวัยรุ่น โรงพยาบาลจุฬาลงกรณ์ 1873 ถนนพระรามที่ 4 แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2256-5183, 0-2256-51876",
+       "web":"https://chulalongkornhospital.go.th/kcmh/dept/%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C/"
+    },
+    "description":"คลินิกพิเศษนอกเวลาราชการ : วันจันทร์ - วันศุกร์ 16.30 - 20.00 น. วันเสาร์ - อาทิตย์ 08.30 - 12.00 น.",
+    "time":"วันจันทร์ - วันศุกร์ 08.30 – 15.30 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://thejournalistclub.com/wp-content/uploads/2020/10/1_37.jpg"
+  },
+  {
+    "name":"โรงพยาบาลรามาธิบดี",
+    "offline":true,
+    "online":false,
+    "address":"หน่วยตรวจผู้ป่วยนอกจิตเวชศาสตร์ (บริการทางการแพทย์ ด้านจิตเวชศาสตร์) อาคาร 4 ชั้น 2 โรงพยาบาลรามาธิบดี คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล 270 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กรุงเทพมหานคร 10400",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2201-12335, 0-2201-1726",
+       "web":"https://med.mahidol.ac.th/psych/th/clinic/clinic_1"
+    },
+    "description":"กรุณาโทรนัดล่วงหน้า",
+    "time":"วันจันทร์ - วันศุกร์ 08.00 – 12.00 น. ยกเว้น วันหยุดราชการ",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://image.makewebeasy.net/makeweb/0/mqk9PemK3/Experience/09_%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5.jpg"
+  },
+  {
+    "name":"คลินิกกู้ใจ โรงพยาบาลตากสิน",
+    "offline":true,
+    "online":false,
+    "address":"คลินิกกู้ใจ โรงพยาบาลตากสิน สำนักการแพทย์ เลขที่ 543 ถ.สมเด็จเจ้าพระยา แขวงคลองสาน เขตคลองสาน กรุงเทพมหานคร 10600",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2437-1206 ต่อ 1234"
+    },
+    "description":"",
+    "time":"วันจันทร์ - วันศุกร์ 08.00 – 11.30 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://www.thebangkokinsight.com/wp-content/uploads/2020/03/tak.jpg"
+  },
+  {
+    "name":"โรงพยาบาลตำรวจ",
+    "offline":true,
+    "online":false,
+    "address":"โรงพยาบาลตำรวจ สำนักงานตำรวจแห่งชาติ 492/1 ถนนพระราม 1 ปทุมวัน กรุงเทพมหานคร 10330",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2207-6000",
+       "web":"https://www.policehospital.org/content/opd.php?opdID=0005&opddata_id=0027"
+    },
+    "description":"ยกเว้น วันหยุดราชการ",
+    "time":"วันจันทร์ - วันศุกร์ 08.00 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/62/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88_Thai_Police_General_Hospital.jpg"
+  },
+  {
+    "name":"โรงพยาบาลทหารผ่านศึก",
+    "offline":true,
+    "online":false,
+    "address":"โรงพยาบาลทหารผ่านศึก 123 ถนนวิภาวดี-รังสิต แขวงสามเสนใน เขตพญาไท กรุงเทพมหานคร 10400",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2644-9400-15",
+       "web":"https://www.policehospital.org/content/opd.php?opdID=0005&opddata_id=0027"
+    },
+    "description":"ยกเว้น วันหยุดราชการ",
+    "time":"วันจันทร์ - วันศุกร์ 08.00 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://image.makewebeasy.net/makeweb/0/BbPXxY80w/Photo/re.jpg?v=202012190947"
+  },
+  {
+    "name":"โรงพยาบาลศิริราช หน่วยตรวจโรคจิตเวชเด็กและวัยรุ่น",
+    "offline":true,
+    "online":false,
+    "address":"หน่วยตรวจโรคจิตเวชเด็กและวัยรุ่น ชั้น 6 คณะแพทยศาสตร์ศิริราชพยาบาล เลขที่ 2 ถนนวังหลัง แขวงศิริราช เขตบางกอกน้อย กรุงเทพมหานคร 10700",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2419-7000",
+       "web":"https://www.si.mahidol.ac.th/sirirajhospital/opd8.php"
+    },
+    "description":"ยกเว้น วันหยุดราชการและวันหยุดนักขัตฤกษ์",
+    "time":"วันจันทร์ - วันศุกร์ 09.00 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://img.kapook.com/u/2021/klangjai_al/September/week2/shutterstock_1618139860.jpg"
+  },
+  {
+    "name":"โรงพยาบาลศิริราช หน่วยตรวจโรคจิตเวชศาสตร์",
+    "offline":true,
+    "online":false,
+    "address":"หน่วยตรวจโรคโรคจิตเวชศาสตร์ ชั้น 7 คณะแพทยศาสตร์ศิริราชพยาบาล เลขที่ 2 ถนนวังหลัง แขวงศิริราช เขตบางกอกน้อย กรุงเทพมหานคร 10700",
+    "province":"จ.กรุงเทพมหานคร",
+      "contact":{
+       "phone":"0-2419-7000",
+       "web":"https://www.si.mahidol.ac.th/sirirajhospital/opd9.php"
+    },
+    "description":"ยกเว้น วันหยุดราชการและวันหยุดนักขัตฤกษ์",
+    "time":"วันจันทร์ - วันศุกร์ 09.00 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://img.kapook.com/u/2021/klangjai_al/September/week2/shutterstock_1618139860.jpg"
+  },
+  {
+    "name":"คลินิกจิตแพทย์ โรงพยาบาลกำแพงเพชร",
+    "offline":true,
+    "online":false,
+    "address":"คลินิกจิตแพทย์ โรงพยาบาลกำแพงเพชร 428 ถนนราชดำเนิน ตำบลในเมือง อำเภอเมือง กำแพงเพชร 62000",
+    "province":"จ.กำแพงเพชร",
+      "contact":{
+       "phone":"0-5502-2000",
+       "web":"https://sites.google.com/site/informationkph/%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%8A"
+    },
+    "description":"ยกเว้น วันหยุดราชการและวันหยุดนักขัตฤกษ์",
+    "time":"วันจันทร์ - วันศุกร์ 08.30 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://www.dailynews.co.th/admin/upload/20180910/news_ODGvMSvzxc025621_533.jpg"
+  },
+  {
+    "name":"คลินิกหมอกัลยา",
+    "offline":true,
+    "online":false,
+    "address":"คลินิกหมอกัลยา 2/23 ถนน ราษฎร์รวมใจ ในเมือง อ.เมือง กำแพงเพชร 62000",
+    "province":"จ.กำแพงเพชร",
+      "contact":{
+       "phone":"088-1725658",
+       "facebook":"https://web.facebook.com/kalya.boonsuriyapun.7"
+    },
+    "description":"ยกเว้น วันอาทิตย์และวันหยุดนักขัตฤกษ์",
+    "time":"วันจันทร์ - วันศุกร์ 17.00 – 19.00 น. วันเสาร์ 09.30 - 11.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.6435-9/70988185_115139456611036_8967257815529816064_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHBZIZjJB8PraEntNF7Ksc_FXOYjwtSBC0Vc5iPC1IELWvOGEnOt5KNoWxVGEdwBZLpD63oD48VdnSA7O_H_wkU&_nc_ohc=uVCzCPl9ylgAX8C6MIw&_nc_ht=scontent.fbkk13-2.fna&oh=6104edaa440c42f90da64cbb31aa36fe&oe=61A16A6F"
+  },
+  {
+    "name":"โรงพยาบาลชัยนาทนเรนทร",
+    "offline":true,
+    "online":false,
+    "address":"โรงพยาบาลชัยนาทนเรนทร 199 หมู่ที่ 5 ถนนพหลโยธิน ตำบล บ้านกล้วย อำเภอเมืองชัยนาท ชัยนาท 17000",
+    "province":"จ.ชัยนาท",
+      "contact":{
+       "phone":"056-411055",
+       "web":"http://chainathospital.org/chainatweb/"
+    },
+    "description":"ยกเว้น วันอาทิตย์และวันหยุดนักขัตฤกษ์",
+    "time":"วันจันทร์ - วันศุกร์ 08.00 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://mpics.mgronline.com/pics/Images/561000004570401.JPEG"
+  },
+  {
+    "name":"โรงพยาบาลนครนายก",
+    "offline":true,
+    "online":false,
+    "address":"คลินิกพิเศษ โรงพยาบาลนครนายก 1-100 ถนนสุวรรณศร อ.เมือง นครนายก 26000",
+    "province":"จ.นครนายก",
+      "contact":{
+       "phone":"037-311151, 037-312440, 037-312441",
+       "web":"https://www.nayokhospital.go.th/web/"
+    },
+    "description":"",
+    "time":"วันอังคาร วันพฤหัสบดี 08.30 – 12.00 น.",
+    "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+    "image":"https://thaihivmap.com/wp-content/uploads/2018/08/Nakhon-Nayok1.jpg"
+  },
+  {
+      "name": "ศูนย์การแพทย์สมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
+      "offline": true,
+      "online": false,
+      "address": "ห้องตรวจจิตเวช ชั้น 2 อาคารศูนย์การแพทย์ฯ ศูนย์การแพทย์สมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี 62 หมู๋ 7 ถนนรังสิต - นครนายก อำเภอองครักษ์ นครนายก 26120",
+      "province": "จ.นครนายก",
+      "contact": {
+          "phone": "037-395-085-6",
+          "web": "http://medicine.swu.ac.th/msmc/?p=4946"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.00 - 11.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A1%E0%B8%A8%E0%B8%A7_%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg"
+  },
+  {
+      "name": "โรงพยาบาลจิตเวชนครสวรรค์ราชนครินทร์",
+      "offline": true,
+      "online": false,
+      "address": "โรงพยาบาลจิตเวชนครสวรรค์ราชนครินทร์ เลขที่ 2 หมู่ 4 ตำบลท่าน้ำอ้อย อำเภอพยุหคีรี นครสวรรค์ 60130",
+      "province": "จ.นครสวรรค์",
+      "contact": {
+          "phone": "056-219444 ต่อ 66408, 66410",
+          "web": "https://nph.go.th/",
+          "facebook": "https://www.facebook.com/jvNakhonSawan/"
+      },
+      "description": "วันพุธให้บริการเฉพาะผู้ป่วยจิตเวชฉุกเฉิน",
+      "time": "วันจันทร์ - วันศุกร์ เปิดรับบัตรเวลา 08.30 - 14.00 น. ให้บริการตรวจรักษาเวลา 08.30 - 16.30 น. ยกเว้น วันหยุดราชการและวันหยุดนักขัตฤกษ์",
+      "cost": "10-1000 บาท",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A1%E0%B8%A8%E0%B8%A7_%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg"
+  },
+  {
+      "name": "โรงพยาบาลสวรรค์ประชารักษ์",
+      "offline": true,
+      "online": false,
+      "address": "โรงพยาบาลสวรรค์ประชารักษ์ 43 ถนนอรรถกวี ตำบาลปากน้ำโพ อำเภอเมือง จังหวัดนครสวรรค์ 60000",
+      "province": "จ.นครสวรรค์",
+      "contact": {
+          "phone": "056-219888, 056-001555",
+          "web": "https://www.spr.go.th/",
+          "facebook": "https://www.facebook.com/sawanpracharak/"
+      },
+      "description": "ยกเว้น วันหยุดราชการและวันหยุดนักขัตฤกษ์",
+      "time": "วันจันทร์ - วันศุกร์ เปิดรับบัตรเวลา 08.30 - 14.00 น. ให้บริการตรวจรักษาเวลา 08.30 - 16.30 น.",
+      "cost": "10-1000 บาท",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A1%E0%B8%A8%E0%B8%A7_%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.jpg"
+  },
+  {
+      "name": "โรงพยาบาลศรีธัญญา",
+      "offline": true,
+      "online": false,
+      "address": "โรงพยาบาลศรีธัญญา เลขที่ 47 หมู่4 ตำบลตลาดขวัญ อำเภอเมือง นนทบุรี 11000",
+      "province": "จ.นนทบุรี",
+      "contact": {
+          "phone": "0-2528-7800",
+          "web": "https://www.srithanya.go.th/index.php/th/2014-06-16-06-52-33/2014-06-16-06-53-08",
+          "facebook": "https://www.facebook.com/av.srithanya",
+          "line": "https://page.line.me/?accountId=srithanyahospital&openerPlatform=webview&openerKey=webview:unifiedSearch"
+      },
+      "description": "เนื่องจากโรงพยาบาลมีคลินิกเฉพาะทางค่อนข้างเยอะ สามารถศึกษาข้อมูลเพิ่มเติมได้ทางเว็บไซต์ที่แสดง",
+      "time": "วันจันทร์ - วันศุกร์ ตั้งแต่ 08.00 น. เป็นต้นไป",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://www.cot.co.th/wp-content/uploads/2018/10/sitanya-hospital.jpg"
+  },
+  {
+      "name": "Chanin Clinic : Specialised Mental Health Clinic.",
+      "offline": true,
+      "online": true,
+      "address": "Chanin Clinic : Specialised Mental Health Clinic. 89/3 หมู่บ้าน วิสต้าปาร์คแจ้งวัฒนะ ถ.แจ้งวัฒนะ ตำบลบางตลาด อำเภอปากเกร็ด นนทบุรี 11120",
+      "province": "จ.นนทบุรี",
+      "contact": {
+          "phone": "092-248-2462",
+          "web": "https://www.chaninclinic.com/?fbclid=IwAR2qflrYkqrWgw9tmO13bm_8vhMfSH8ag3RMQC2JFXg7YMipKCZ8GQCWf80",
+          "facebook": "https://www.facebook.com/chaninclinic/",
+          "line": "@chaninclinic"
+      },
+      "description": "กรุณานัดล่วงหน้า หากต้องการรับคำปรึกษาทางออนไลน์กรุณาแจ้งตอนที่นัดหมาย",
+      "time": "วันจันทร์, วันพุธ 16.00 - 19.30 น. วันเสาร์ 10.00 - 18.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://scontent.fbkk22-8.fna.fbcdn.net/v/t31.18172-8/18192750_1168143063312977_2666936461504404900_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEUL7OFt1VVYNZHb-LyjGv5hk5nQ5kafKiGTmdDmRp8qC67YZNdQ3AJ-mytVqcsd3ocbDEpaMlQcnswzxVmRezN&_nc_ohc=mJhfF9euUoAAX8orSO1&tn=9AsZlk4gwftJkyNn&_nc_ht=scontent.fbkk22-8.fna&oh=0c5a1a4cdf3f7d983fa7f05780b59e6b&oe=61A11680"
+  },
+  {
+      "name": "ระวีลักขณคลินิกเวชกรรม",
+      "offline": true,
+      "online": false,
+      "address": "9 (บ้านเย็นสบาย) ซอยพิบูลสงคราม 22 แยก 8 ตำบลตลวาดขวัญ อำเภอเมือง นนทบุรี 11000",
+      "province": "จ.นนทบุรี",
+      "contact": {
+          "phone": "082-326-9274, 061-994-9892, 0-2006-4018",
+          "facebook": "https://www.facebook.com/raweelarkclinic/?ref=page_internal"
+      },
+      "description": "คลินิกจำเป็นต้องปิดทำการในวันที่มีภารกิจที่โรงพยาบาลศรีธัญญา ท่านสามารถโทรนัดล่วงหน้าได้ที่เบอร์ 082-326-9274",
+      "time": "วันจันทร์ - วันอาทิตย์ 17.00 - 20.00 น. ยกเว้น วันเสาร์",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://scontent.fbkk22-6.fna.fbcdn.net/v/t1.6435-9/98218467_3166437440047146_27023208376958976_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEaq7Tm1ob5zIi9G-xoxcmy5wJdslnuhxznAl2yWe6HHNeu0QrJmd4dlFYGtwWUd9WD-2t9qnRreXBNm91VWz8_&_nc_ohc=R38Zz7Cul_AAX9m3CYq&_nc_ht=scontent.fbkk22-6.fna&oh=5f518f368987b1dffdf1f22cfc047bc7&oe=61A2AC30"
+  },
+  {
+      "name": "คลินิกแพทย์วิเชียร",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกแพทย์วิเชียร 78/120 (33) ซอยประชาราษฎร์ 26 (ซอยศรีพรสวรรค์) ต.สวนใหญ่ อ.เมือง จ.นนทบุรี 11000",
+      "province": "จ.นนทบุรี",
+      "contact": {
+          "phone": "089-482-8290, 0-2967-4391",
+          "web": "https://www.drwichian.com/?fbclid=IwAR079bBIa-69HgftJMGuzTNsTv4txAphHE9q26G-fQHIJpiHBmfQcDcE0GY",
+          "facebook": "https://www.facebook.com/drwichianclinic/",
+          "line": "dr.wichianclinic หรือ แอดด้วยเบอร์ 0894828290"
+      },
+      "description": "คนไข้ใหม่ต้องทำการนัดเวลาล่วงหน้า",
+      "time": "วันอังคาร, วันพุธ, วันศุกร์ 17.00 - 20.00 น. วันเสาร์ 10.00 - 15.00 น. วันอาทิตย์ 15.00 - 20.00 น.",
+      "cost": "500-1500 บาท",
+      "image": "https://scontent.fbkk22-6.fna.fbcdn.net/v/t1.6435-9/98218467_3166437440047146_27023208376958976_n.png?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEaq7Tm1ob5zIi9G-xoxcmy5wJdslnuhxznAl2yWe6HHNeu0QrJmd4dlFYGtwWUd9WD-2t9qnRreXBNm91VWz8_&_nc_ohc=R38Zz7Cul_AAX9m3CYq&_nc_ht=scontent.fbkk22-6.fna&oh=5f518f368987b1dffdf1f22cfc047bc7&oe=61A2AC30"
+  },
+  {
+      "name": "คลินิกจิตเวช โรงพยาบาลพระนครศรีอยุธยา",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวชผู้ใหญ่ อาคารภิกษุอาพาธ (เทพประชา) ชั้น 1 โรงพยาบาลพระนครศรีอยุธยา อำเภอพระนครศรีอยุธยา พระนครศรีอยุธยา 13000",
+      "province": "จ.พระนครศรีอยุธยา",
+      "contact": {
+          "phone": "035-211-888 ต่อ 3230",
+          "web": "http://www.ayhosp.go.th/ayh/index.php/clinic-2/clinic-2-4/clinic-2-12",
+          "facebook": "https://www.facebook.com/ADMIN.AYHOSP/"
+      },
+      "description": "ตรวจทุกวันพุธที่ 1 และ 3 ของเดือน",
+      "time": "ตรวจทุกวันพุธที่ 1 และ 3 ของเดือน 17.00 - 20.00 น.",
+      "cost": "ค่าพบแพทย์เฉพาะทางนอกเวลา 300 บาท *ไม่สามารถเบิกได้*",
+      "image": "https://storage.googleapis.com/swapgap-bucket/post/b1edc934-965a-11e8-ae61-6e93436b514f-fa04d54d-ce67-49a2-9922-5983f73803ab"
+  },
+  {
+      "name": "คลีนิกจิตเวชทั่วไป (ผู้ใหญ่) โรงพยาบาลพิจิตร",
+      "offline": true,
+      "online": false,
+      "address": "คลีนิกจิตเวชทั่วไป (ผู้ใหญ่) โรงพยาบาลพิจิตร 136 ถนนบึงสีไฟ ตำบลในเมือง อำเภอเมือง จังหวัดพิจิตร 66000",
+      "province": "จ.พิจิตร",
+      "contact": {
+          "phone": "056-611355, 056-611230",
+          "web": "http://pichithosp.net/pchweb/"
+      },
+      "description": "กรุณานัดหมายก่อนพบแพทย์",
+      "time": "ในเวลาราชการ : วันจันทร์, วันอังคาร, วันพุธ 08.30 - 14.00 น. นอกเวลาราชการ / วันหยุดนักขัตฤกษ์ : วันจันทร์, วันอังคาร, วันพุธ 13.00 - 14.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://obs.line-scdn.net/0hwo4NS1a-KEAJNwOQ0kxXFzNhKy86WztDbQF5Q1VZdnRxVGlDMlI1dSU1dnIlB28eZwJkIis_M3F0UG1BYFE1/w644"
+  },
+  {
+      "name": "คลินิกจิตเวชเด็ก และวัยรุ่นอายุไม่เกิน 18 ปี โรงพยาบาลพิจิตร",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวชเด็ก และวัยรุ่นอายุไม่เกิน 18 ปี โรงพยาบาลพิจิตร 136 ถนนบึงสีไฟ ตำบลในเมือง อำเภอเมือง จังหวัดพิจิตร 66000",
+      "province": "จ.พิจิตร",
+      "contact": {
+          "phone": "056-611355, 056-611230",
+          "web": "http://pichithosp.net/pchweb/"
+      },
+      "description": "",
+      "time": "ในเวลาราชการ : วันพฤหัสบดี - วันศุกร์ 08.30 - 14.00 น. นอกเวลาราชการ / วันหยุดนักขัตฤกษ์ : วันพฤหัสบดี - วันศุกร์ 13.00 - 14.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://obs.line-scdn.net/0hwo4NS1a-KEAJNwOQ0kxXFzNhKy86WztDbQF5Q1VZdnRxVGlDMlI1dSU1dnIlB28eZwJkIis_M3F0UG1BYFE1/w644"
+  },
+  {
+      "name": "แผนกจิตเวช โรงพยาบาลพระนารายณ์มหาราช",
+      "offline": true,
+      "online": false,
+      "address": "แผนกจิตเวช โรงพยาบาลพระนารายณ์มหาราช 260 ถนนพหลโยธิน หมู่ที่ 1 ตำบลเขาสามยอด อำเภอเมืองลพบุรี ลพบุรี 15000",
+      "province": "จ.ลพบุรี",
+      "contact": {
+          "phone": "036-785440-445, 036-447-450",
+          "web": "http://www.kingnaraihospital.go.th/index.php",
+          "facebook": "https://www.facebook.com/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%93%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A-1182703275242862/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันอังคาร 08.00 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://thaihivmap.com/wp-content/uploads/2018/08/Kingnarai1.jpg"
+  },
+  {
+      "name": "แผนกจิตเวช โรงพยาบาลพระนารายณ์มหาราช",
+      "offline": true,
+      "online": false,
+      "address": "โรงพยาบาลพระนารายณ์มหาราช 35 หมู่ 6 ตำบลเขาสามยอด อำเภอเมืองลพบุรี ลพบุรี 15000",
+      "province": "จ.ลพบุรี",
+      "contact": {
+          "phone": "036-785-8914 ต่อ 38062, 036-785-8915 ต่อ 38062",
+          "web": "http://www.ananhosp.go.th/index_home.html",
+          "facebook": "https://www.facebook.com/Ananfanpage/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันพฤหัสบดี 08.00 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://www.matichon.co.th/wp-content/uploads/2018/05/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%94%E0%B8%A5.jpg"
+  },
+  {
+      "name": "รักลูกคลินิกเฉพาะทางด้านเวชกรรมจิตเวช",
+      "offline": true,
+      "online": true,
+      "address": "รักลูกคลินิกเฉพาะทางด้านเวชกรรมจิตเวช 77/91 หมู่ 4 ถนนเอกชัย ตำบลโคกขาม อำเภอเมือง สมุทรสาคร 74000",
+      "province": "จ.สมุทรสาคร",
+      "contact": {
+          "phone": "084-426-2611",
+          "web": "https://raklukeclinic.com/",
+          "facebook": "https://www.facebook.com/raklukeclinic/",
+          "line": "raklukeclinic1"
+      },
+      "description": "กรุณานัดหมายก่อน",
+      "time": "วันจันทร์ : 16.30 - 20.00 น.วันอังคาร - วันพุธ : 16.00 - 20.00 น. วันพฤหัสบดี, วันอาทิตย์ : 10.00 - 17.00 น. วันเสาร์ 09.00 - 16.00 น. ",
+      "cost": "400 บาท++",
+      "image": "https://i1.wp.com/raklukeclinic.com/wp-content/uploads/2021/01/img_4054.jpg?resize=768%2C555&ssl=1"
+  },
+  {
+      "name": "คลินิกจิตเวช โรงพยาบาลสิงห์บุรี",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวช โรงพยาบาลสิงห์บุรี 917/3 ถนนขุนสรรค์ ตำบลบางพุทรา อำเภอเมือง สิงห์บุรี 16000",
+      "province": "จ.สิงห์บุรี",
+      "contact": {
+          "phone": "036-522508-11 ต่อ 6100",
+          "web": "http://www.singburihosp.go.th/index.php",
+          "facebook": "https://www.facebook.com/PBHSaraburi/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://www.hfocus.org/sites/default/files/picture_cover/2_41.jpg"
+  },
+  {
+      "name": "คลินิกจิตเวช โรงพยาบาลพระพุทธบาท",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวช โรงพยาบาลพระพุทธบาท 86 หมู่ 8 ตำบลธารเกษม อำเภอพระพุทธบาท จังหวัดสระบุรี 18120",
+      "province": "จ.สระบุรี",
+      "contact": {
+          "phone": "036-266-166, 036-266-111, 036-268-2158",
+          "web": "http://www.pbh.go.th/",
+          "facebook": "https://www.facebook.com/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-978320608916529/"
+      },
+      "description": "",
+      "time": "วันจันทร์, วันพุธ, วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/PBHlogo.gif"
+  },
+  {
+      "name": "ห้องตรวจจิตเวช โรงพยาบาลสระบุรี",
+      "offline": true,
+      "online": false,
+      "address": "ห้องตรวจจิตเวช อาคารผู้ป่วยนอกชั้น 2 โรงพยาบาลสระบุรี 86 หมู่ 8 ตำบลธารเกษม อำเภอพระพุทธบาท จังหวัดสระบุรี 18120",
+      "province": "จ.สระบุรี",
+      "contact": {
+          "phone": "036-343-500",
+          "web": "https://www.sbh.go.th/?fbclid=IwAR3FHMMHrTbaa9vI4at7yvnOlbeYgF5jyuHAhj6boNOeUEXY95vERoSU-Vo",
+          "facebook": "https://www.facebook.com/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-978320608916529/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/PBHlogo.gif"
+  },
+  {
+      "name": "คลินิกจิตเวชผู้ใหญ่ โรงพยาบาลอ่างทอง",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวชผู้ใหญ่ โรงพยาบาลอ่างทอง เลขที่ 3 ถนนเทศบาล 6 ตำบลบางแก้ว อำเภอเมือง อ่างทอง 14000",
+      "province": "จ.อ่างทอง",
+      "contact": {
+          "phone": "035-615-111",
+          "web": "https://www.sbh.go.th/?fbclid=IwAR3FHMMHrTbaa9vI4at7yvnOlbeYgF5jyuHAhj6boNOeUEXY95vERoSU-Vo",
+          "facebook": "https://www.facebook.com/AngthongHospital/"
+      },
+      "description": "ทำการนัดหมายเพื่อบริการที่รวดเร็ว",
+      "time": "วันพุธ - วันพฤหัสบดี 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://www.thaireference.com/wp-content/uploads/2020/05/S__3366949-1024x768.jpg?v=1590375776"
+  },
+  {
+      "name": "คลินิกจิตเวชเด็กและวัยรุ่น โรงพยาบาลอ่างทอง",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกปลูกคิด โรงพยาบาลอ่างทอง เลขที่ 3 ถนนเทศบาล 6 ตำบลบางแก้ว อำเภอเมือง อ่างทอง 14000",
+      "province": "จ.อ่างทอง",
+      "contact": {
+          "phone": "035-615-111",
+          "web": "https://www.sbh.go.th/?fbclid=IwAR3FHMMHrTbaa9vI4at7yvnOlbeYgF5jyuHAhj6boNOeUEXY95vERoSU-Vo",
+          "facebook": "https://www.facebook.com/AngthongHospital/"
+      },
+      "description": "ทำการนัดหมายเพื่อบริการที่รวดเร็ว",
+      "time": "วันจันทร์ 08.30 - 12.00 น. สำหรับผู้ป่วยเก่า วันอังคาร 08.30 - 12.00 น. สำหรับผู้ป่วยใหม่",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://www.thaireference.com/wp-content/uploads/2020/05/S__3366949-1024x768.jpg?v=1590375776"
+  },
+  {
+      "name": "คลินิกเวชกรรม พญ.กรองแก้ว พญ.กรอบกาญจน์",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกเวชกรรม พญ.กรองแก้ว พญ.กรอบกาญจน์ 58 ถนนเทศบาล10 ตำบลตลาดหลวง อำเภอเมือง อ่างทอง 14000",
+      "province": "จ.อ่างทอง",
+      "contact": {
+          "phone": "061-182-7699",
+          "facebook": "https://www.facebook.com/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%9E%E0%B8%8D%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-%E0%B8%9E%E0%B8%8D%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-110272710671446/"
+      },
+      "description": "",
+      "time": "วันอังคาร, วันพุธ, วันศุกร์ 17.00 - 19.00 น. วันเสาร์ 09.40 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.6435-9/95566438_110287844003266_4025802116466475008_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGOUQUTlutRbQPK_WVS0b4HrbzQlWuXT-ytvNCVa5dP7HFaKD_Qz82caOgBYUBIvm1k-p1bRFefE2-kN6yvd8-Z&_nc_ohc=TCpx9lx9JP0AX9dNZe_&_nc_ht=scontent.fbkk22-1.fna&oh=bbf0664c4da0daf2b61f563c341aecb7&oe=61A26F45"
+  },
+  {
+      "name": "คลินิกจิตเวชทั่วไป โรงพยาบาลอุทัยธานี",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวชทั่วไป โรงพยาบาลอุทัยธานี เลขที่ 56 ถนนรักการดี ตำบลอุทัยใหม่ อำเภอเมือง อุทัยธานี 61000",
+      "province": "จ.อุทัยธานี",
+      "contact": {
+          "phone": "056-511-081",
+          "web": "https://uth.moph.go.th/uthaihosp/clinic/29",
+          "facebook": "https://www.facebook.com/uthaihosp/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันพฤหัสบดี 09.00 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://thaihivmap.com/wp-content/uploads/2018/08/Uthai-Thani-1.jpg"
+  },
+  {
+      "name": "คลินิกจิตเวชผู้สูงอายุ โรงพยาบาลอุทัยธานี",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวชผู้สูงอายุ โรงพยาบาลอุทัยธานี เลขที่ 56 ถนนรักการดี ตำบลอุทัยใหม่ อำเภอเมือง อุทัยธานี 61000",
+      "province": "จ.อุทัยธานี",
+      "contact": {
+          "phone": "056-511-081",
+          "web": "https://uth.moph.go.th/uthaihosp/clinic/29",
+          "facebook": "https://www.facebook.com/uthaihosp/"
+      },
+      "description": "",
+      "time": "วันพฤหัสบดี 09.00 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://thaihivmap.com/wp-content/uploads/2018/08/Uthai-Thani-1.jpg"
+  },
+  {
+      "name": "คลินิกจิตเวชเด็ก โรงพยาบาลอุทัยธานี",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวชเด็ก โรงพยาบาลอุทัยธานี เลขที่ 56 ถนนรักการดี ตำบลอุทัยใหม่ อำเภอเมือง อุทัยธานี 61000",
+      "province": "จ.อุทัยธานี",
+      "contact": {
+          "phone": "056-511-081",
+          "web": "https://uth.moph.go.th/uthaihosp/clinic/29",
+          "facebook": "https://www.facebook.com/uthaihosp/",
+          "line": "@uthaithhosp"
+      },
+      "description": "",
+      "time": "เฉพาะวันพุธของสัปดาห์ที่ 1 3 และ 5 09.00 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://thaihivmap.com/wp-content/uploads/2018/08/Uthai-Thani-1.jpg"
+  },
+  {
+      "name": "คลินิกสุขภาพใจหมอปัญญ์ชัจจ์",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกสุขภาพใจหมอปัญญ์ชัจจ์ 114, 21 ถนนวงศาโรจน์ 8 ตำบลอุทัยใหม่ อำเภอเมืองอุทัยธานี อุทัยธานี 61000",
+      "province": "จ.อุทัยธานี",
+      "contact": {
+          "phone": "089-920-8969",
+          "facebook": "https://www.facebook.com/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%83%E0%B8%88-%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B9%8C-101967721318085/"
+      },
+      "description": "",
+      "time": "วันอังคาร, วันพฤหัสบดี, วันศุกร์ 17.00 - 20.00 น. วันเสาร์ 09.00 - 12.00 และ 17.00 - 20.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.6435-9/80650565_102010631313794_1852714330169016320_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFyuX4rvf_mWW95mKHpTvk1vKf2xr-GHcG8p_bGv4YdwZONRBpJFYKrPIJN6ZQRyJZXDHnIRspGfs419VrZFFVH&_nc_ohc=QE_-ENEsG20AX_UTEyY&_nc_ht=scontent.fbkk22-1.fna&oh=fe71b71ab68aa2c513ba4aa9d3bcf24a&oe=61A50474"
+  },
+  {
+      "name": "คลินิกจิตเวช โรงพยาบาลเจ้าพระยาอภัยภูเบศร",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวช อาคารเฉลิมพระเกียรติฯ ชั้น 2 โรงพยาบาลเจ้าพระยาอภัยภูเบศร เลขที่ 32/7 หมู่ 12 ถนนปราจีนอนุสรณ์ ตำบลท่างาม ปราจีนบุรี 25000",
+      "province": "จ.ปราจีนบุรี",
+      "contact": {
+          "phone": "037-211-088 ต่อ 2219, 2227, 2103",
+          "web": "https://www.cpa.go.th/",
+          "facebook": "https://www.facebook.com/abhaibhubejhrhospital/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://www.thailandplus.tv/wp-content/uploads/2018/06/8C2A84F0-71AE-4382-A0EE-C12713AC54C9-1024x682.jpg"
+  },
+  {
+      "name": "โรงพยาบาลจิตเวชสระแก้วราชนครินทร์",
+      "offline": true,
+      "online": false,
+      "address": "โรงพยาบาลจิตเวชสระแก้วราชนครินทร์ 176 หมู่ 3 ตำบลหนองน้ำใส อำเภแวัฒนานคร สระแก้ว 27160",
+      "province": "จ.สระแก้ว",
+      "contact": {
+          "phone": "037-262-995-8",
+          "web": "https://jvsakaeo.go.th/",
+          "facebook": "https://www.facebook.com/jvsakaeo/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://pr.moph.go.th/_WEBADMIN/editors/userfiles2/images/29%E0%B8%A1%E0%B8%B5%E0%B8%84_2_64%20%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B9%92%E0%B9%91%E0%B9%90%E0%B9%93%E0%B9%92%E0%B9%99.jpg"
+  },
+  {
+      "name": "คลินิกแพทย์กรกต โดย นายแพทย์ กรกต",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกแพทย์กรกต วัฒนานคร 439 ม.10 ตำบลวัฒนานคร อำเภอวัฒนานคร สระแก้ว 27160",
+      "province": "จ.สระแก้ว",
+      "contact": {
+          "phone": "084-567-9935",
+          "web": "https://sites.google.com/site/korakotclinic/Home/services",
+          "facebook": "https://www.facebook.com/clinicdoctorkorakot/",
+          "line": "korakotclinic"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.00 - 11.55 น. และ 14.00 - 19.00 น. วันเสาร์ 08.00 - 11.55 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "data:image/png;base64,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"
+  },
+  {
+      "name": "ห้องตรวจจิตเวช โรงพยาบาลพุทธโสธร",
+      "offline": true,
+      "online": false,
+      "address": "ห้องตรวจจิตเวช โรงพยาบาลพุทธโสธร 174 ถนนมรุพงษ์ ตำบลหน้าเมือง อำเภอเมือง ฉะเชิงเทรา 24000, ประเทศไทย",
+      "province": "จ.ฉะเฉิงเทรา",
+      "contact": {
+          "phone": "038-814375-8",
+          "web": "http://www.bsh.go.th/",
+          "facebook": "https://www.facebook.com/wearebuddhasothorn/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันพฤหัสบดี 08.30 - 16.00 น. และ วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://mpics.mgronline.com/pics/Images/564000004207401.JPEG"
+  },
+  {
+      "name": "คลินิกเวชกรรมหมอภาสกร - ตั้ม",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกเวชกรรมหมอภาสกร - ตั้ม 42/6 ถ.ศรีโสธรตัดใหม่ ตำบลหน้าเมือง อำเภอเมือง ฉะเชิงเทรา 24000",
+      "province": "จ.ฉะเฉิงเทรา",
+      "contact": {
+          "phone": "097-247-2215",
+          "facebook": "https://www.facebook.com/ClinicDr.Tum"
+      },
+      "description": "",
+      "time": "วันจันทร์, วันอังคาร, วันพฤหัสบดี, วันศุกร์ 17.00 - 20.00 น. และ วันเสาร์ 09.00 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://scontent.fbkk22-3.fna.fbcdn.net/v/t31.18172-8/22859873_688740164654659_728778134556703641_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH_KOEbubtU6SxOJ4GYbieB885jS8-n7THzzmNLz6ftMYsAo6l7NjV2qxIpBgdIqi6DBNGamZ5gL6jgBhTqmwzu&_nc_ohc=ppwAWJefplwAX83AmNq&_nc_ht=scontent.fbkk22-3.fna&oh=630d06bee0a25c1fb707eda1cb4ad7ad&oe=61A6BA50"
+  },
+  {
+      "name": "คลินิกจิตเวช โรงพยาบาลชลบุรี",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกจิตเวช โรงพยาบาลชลบุรี เลขที่ 69 ม.2 ถนนสุขุมวิท อำเภอเมืองชลบุรี ชลบุรี 20000",
+      "province": "จ.ชลบุรี",
+      "contact": {
+          "phone": "0-3893-1000",
+          "web": "http://www.cbh.moph.go.th/cbh2020/",
+          "facebook": "https://www.facebook.com/cbhfanpage"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันศุกร์ 08.30 - 12.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://lh3.googleusercontent.com/proxy/pHKJUhFdRi9UtQaofwOR2mo0KjFE6uD9UsLmCIY3ZVaWrVnxgSVW8LQ49YpV5cNrZ5jZlrW_XrYaeRwn3e4A5hJMKT9Jt5_-WBEPeZLVZO60IDo"
+  },
+  {
+      "name": "ศูนย์สุขภาพจิต โรงพยาบาลกรุงเทพ พัทยา",
+      "offline": true,
+      "online": false,
+      "address": "ศูนย์สุขภาพจิต โรงพยาบาลกรุงเทพ พัทยา อาคาร E ชั้น 2 301 ม.6 ถนนสุขุมวิท กม.143 ตำบลนาเกลือ อำเภอบางละมุง ชลบุรี 20150",
+      "province": "จ.ชลบุรี",
+      "contact": {
+          "phone": "1719",
+          "web": "https://www.bangkokpattayahospital.com/th/",
+          "facebook": "https://www.facebook.com/bphhospital/"
+      },
+      "description": "",
+      "time": "วันจันทร์ - วันอาทิตย์ 09.00-17.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://mpics.mgronline.com/pics/Images/559000005490101.JPEG.webp"
+  },
+  {
+      "name": "คลินิกรักษาโรคทางจิตเวช โรงพยาบาลระยอง",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกรักษาโรคทางจิตเวช อาคารผู้ป่วยนอกชั้น 2 โรงพยาบาลระยอง เลขที่ 138 ถนนสุขุมวิท ตำบลท่าประดู่ อำเภอเมือง ระยอง 21000",
+      "province": "จ.ระยอง",
+      "contact": {
+          "phone": "038-618-686 , 038-611-104 ต่อ 2026, 2027",
+          "web": "https://rayonghospital.go.th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%AD%E0%B8%87/i/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81",
+          "facebook": "https://www.facebook.com/mamamayuree0885050xxxx/"
+      },
+      "description": "กรุณานัดล่วงหน้า เพราะรับตรวจรายใหม่วันละ 4 ราย ถ้ามีคนไข้เกินจะทำการนัดมาตรวจในวันถัดไป",
+      "time": "วันจันทร์ - วันศุกร์ 08.30-16.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://rayonghospital.go.th/images/webpage/a986830295e277.jpg"
+  },
+  {
+      "name": "คลินิกรักษาจิตเวชเด็กและวัยรุ่น โรงพยาบาลระยอง",
+      "offline": true,
+      "online": false,
+      "address": "คลินิกรักษาจิตเวชเด็กและวัยรุ่น อาคารผู้ป่วยนอกชั้น 2 โรงพยาบาลระยอง เลขที่ 138 ถนนสุขุมวิท ตำบลท่าประดู่ อำเภอเมือง ระยอง 21000",
+      "province": "จ.ระยอง",
+      "contact": {
+          "phone": "0-393-19666 ต่อ 1380",
+          "web": "https://www.ppkhosp.go.th/",
+          "facebook": "https://www.facebook.com/mamamayuree0885050xxxx/"
+      },
+      "description": "กรุณานัดล่วงหน้า",
+      "time": "วันจันทร์ - วันอังคาร 13.30 - 16.00 น.",
+      "cost": "สอบถามราคาเพิ่มเติมได้ที่เจ้าหน้าที่",
+      "image": "https://rayonghospital.go.th/images/webpage/a986830295e277.jpg"
+  }
+]
