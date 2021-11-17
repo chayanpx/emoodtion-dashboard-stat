@@ -4,11 +4,12 @@ import { Calendar } from 'react-native-calendars';
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import Firebase, { db } from "../config/Firebase";
 
-const initialState = {
-    currentDate: date + realMonth[month] + year
-}
+// const initialState = {
+//     currentDate: date + realMonth[month] + year
+// }
 
 const DashboardScreen = ( {navigation} ) => {
+    const [isLoading, setIsLoading] = useState(true);
     const date = new Date().getDate().toString().padStart(2, "0");; //Current Date
     const month = new Date().getMonth(); //Current Month
     const year = new Date().getFullYear(); //Current Year
